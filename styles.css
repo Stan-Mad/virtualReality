@@ -1,0 +1,63 @@
+body {
+    background-image: url(future.jpg);
+color: #ebebeb;
+font-family: fantasy;
+}
+h1{
+    font-size: 2 
+        em;
+    text-align: center;
+
+}
+
+
+a{
+    color: #fff;
+}
+
+a:hover {
+    color: red;
+    
+}
+
+p{
+    font-size: 2em;
+    text-align:justify;   
+    margin: 10px;
+    color: 
+    
+}
+
+div{
+    background-color: rgba(10, 8, 8, 0.67);
+}
+
+/*vr-div {
+  width:100%;
+  height:200px;
+  background:red;
+  position:relative;
+  overflow:hidden;
+}
+
+vr-div:after, 
+vr-div:before {
+  content:'';
+  background:white;
+  position:absolute;
+  top:-10px;
+  left:0;
+  width:100%;
+  height:20px;
+  border-radius:0 0 50% 50%;
+}
+vr-div:after {
+  top:auto;
+  bottom:-10px;
+  border-radius:50% 50% 0 0 ;
+}*/
+ul{
+    font-size: 2em;
+    text-align:justify;  
+    margin: 10px;
+}
